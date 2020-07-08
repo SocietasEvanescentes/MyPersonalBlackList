@@ -21,7 +21,7 @@
 ||www.telemetry-experiment.cdn.mozilla.net^$important
 ||telemetry.mozilla.org^$important
 
-# Repeated Clickbait Sites
+! Repeated Clickbait Sites
 ||bloomberg.com^$important
 ||9to5mac.com^$important
 ||9to5Google.com^$important
@@ -32,10 +32,10 @@
 ! Netflix
 ||ichnaea.netflix.com^$important
 
-# Comments
+! Comments
 ||disqus.com^$important
 ||disquscdn.com^$important
-# Mobile Nations
+! Mobile Nations
 ||www.androidcentral.com^$important
 ||www.imore.com^$important
 ||pagead.l.doubleclick.net^$important
@@ -49,5 +49,9 @@
 ||sponsor.ajay.app^$important
 # Blizzard
 ||telemetry-in.battle.net^$important
+
+# Apple
+||metrics.icloud.com^$important
+
 
 
