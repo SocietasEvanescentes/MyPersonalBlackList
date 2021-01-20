@@ -15,6 +15,10 @@
 ||browser.pipe.aria.microsoft.com^$important
 ||mixer.com^$important
 
+! Microsoft on Android
+||snippetdata.api.swiftkey.com^$important
+||telemetry.api.swiftkey.com^$important
+
 ! Mozilla
 ||www.crash-stats.mozilla.com^$important
 ||www.incoming.telemetry.mozilla.org^$important
