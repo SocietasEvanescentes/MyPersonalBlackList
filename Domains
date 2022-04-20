@@ -1,0 +1,83 @@
+! Edge Classic
+
+||anyclip.com^$important
+
+! Microsoft
+||ntp.msn.com^$important
+||watson.telemetry.microsoft.com^$important
+||arc.msn.com^$important
+||cdn.spotxcdn.com^$important
+||cdn.spotxcdn.com^$important
+||ads.api.vungle.com^$important
+||fp.msedge.net^$important
+||cdn.adnxs.com^$important
+||widgets.outbrain.com^$important
+||browser.pipe.aria.microsoft.com^$important
+||mixer.com^$important
+
+! Microsoft Skype
+||people.skype.com^$important
+||pnv.skype.com^$important 
+||contacts.skype.com^$important 
+||api.aps.skype.com^$important 
+||wsapi.skype.com^$important 
+||options.skype.com^$important 
+||api.mcr.skype.com^$important 
+||statis-asm.secure.skypeassets.com^$important 
+||api.cc.skype.com^$important 
+||go.trouter.skype.com^$important 
+||static.asm.skype.com^$important 
+||config.edge.skype.com^$important 
+||prod.registar.skype.com^$important 
+||avatar.skype.com^$important 
+||relay.skype.com^$important 
+||broker.skype.com^$important 
+||broadcast.skype.com^$important 
+||infra.lync.com^$important 
+||pipe.skype.com^$important 
+||skypemaprdsitus.trafficmanager.net^$important 
+||sfbassets.com^$important 
+||engagementapi.skype.com^$important
+||mrrcountries.cdn.skype.com^$important
+||msgsearch.skype.com^$important
+||api.cc.skype.com^$important
+||go.trouter.skype.com^$important
+||api.mcr.skype.com^$important
+||static-asm.secure.skypeassets.com^$important
+||config.edge.skype.com^$important
+||prod.registrar.skype.com^$important
+||api.asm.skype.com^$important
+||static.asm.skype.com^$important
+||consumer.entitlement.skype.com^$important
+||edge.skype.com^$important
+||trouter-cus-b.trouter.skype.com^$important
+
+
+! Microsoft on Android
+||snippetdata.api.swiftkey.com^$important
+||telemetry.api.swiftkey.com^$important
+
+! Mozilla
+||www.crash-stats.mozilla.com^$important
+||www.incoming.telemetry.mozilla.org^$important
+||www.telemetry-experiment.cdn.mozilla.net^$important
+||telemetry.mozilla.org^$important
+
+
+
+
+! Netflix
+||ichnaea.netflix.com^$important
+
+! Comments
+||disqus.com^$important
+||disquscdn.com^$important
+
+# Blizzard
+||telemetry-in.battle.net^$important
+
+# Apple
+||metrics.icloud.com^$important
+
+
+
