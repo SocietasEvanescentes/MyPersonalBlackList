@@ -72,10 +72,10 @@
 ||disqus.com^$important
 ||disquscdn.com^$important
 
-# Blizzard
+! Blizzard
 ||telemetry-in.battle.net^$important
 
-# Apple
+! Apple
 ||metrics.icloud.com^$important
 
 
