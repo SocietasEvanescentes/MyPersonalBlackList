@@ -83,3 +83,5 @@
 ||tabbycats.club
 
 ! ========ADVANCED RULES========
+||cnn.com^$subdocument,script
+||dailymail.co.uk^$subdocument,script
