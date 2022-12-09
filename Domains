@@ -85,3 +85,5 @@
 ! ========ADVANCED RULES========
 ||cnn.com^$subdocument,script
 ||dailymail.co.uk^$subdocument,script,cookie
+||businessinsider.com^$subdocument,script,cookie
+
