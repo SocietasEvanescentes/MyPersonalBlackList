@@ -83,7 +83,7 @@
 ||tabbycats.club
 
 ! ========ADVANCED RULES========
-||cnn.com^$subdocument,script
-||dailymail.co.uk^$subdocument,script,cookie
-||businessinsider.com^$subdocument,script,cookie
-
+||cnn.com^$important,subdocument,script
+||dailymail.co.uk^$important,subdocument,script,cookie
+||businessinsider.com^$important,subdocument,script,cookie
+||buzzfeednews.com^$important,subdocument,script,cookie
