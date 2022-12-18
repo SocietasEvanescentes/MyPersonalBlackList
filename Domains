@@ -58,9 +58,7 @@
 
 ! Mozilla
 ||www.crash-stats.mozilla.com^$important
-||www.incoming.telemetry.mozilla.org^$important
-||www.telemetry-experiment.cdn.mozilla.net^$important
-||telemetry.mozilla.org^$important
+
 
 
 
