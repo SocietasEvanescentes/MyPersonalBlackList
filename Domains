@@ -56,6 +56,12 @@
 ||edge.skype.com^$important
 ||trouter-cus-b.trouter.skype.com^$important
 
+! Pinterest
+||widgets.pinterest.com
+
+! TikTok
+||ads-api.tiktok.com
+||business-api.tiktok.com
 
 ! Microsoft on Android
 ||snippetdata.api.swiftkey.com^$important
@@ -65,8 +71,23 @@
 ||www.crash-stats.mozilla.com^$important
 
 
+! Amazon
+||analyticsengine.s3.amazonaws.com
+||analytics.s3.amazonaws.com
+||advertising-api-eu.amazon.com
 
+! Bugsnag
+||api.bugsnag.com
+||app.bugsnag.com
 
+! Sentry
+||browser.sentry-cdn.com
+||app.getsentry.com
+
+! Verizon
+||udc.yahoo.com
+||udcm.yahoo.com
+||adtech.yahooinc.com
 
 ! Netflix
 ||ichnaea.netflix.com^$important
@@ -80,6 +101,17 @@
 
 ! Apple
 ||metrics.icloud.com^$important
+
+! Yandex
+||appmetrica.yandex.ru
+||metrika.yandex.ru
+
+! Android OEM (Not appliable to me, but better safe than sorry)
+||bdapi-ads.realmemobile.com
+||bdapi-in-ads.realmemobile.com
+||ck.ads.oppomobile.com
+||grs.hicloud.com
+
 
 ! Unreleated Addons
 ||tabby-cat.myshopify.com
