@@ -55,6 +55,7 @@
 ||consumer.entitlement.skype.com^$important
 ||edge.skype.com^$important
 ||trouter-cus-b.trouter.skype.com^$important
+||in.appcenter.ms^$important
 
 ! Pinterest
 ||widgets.pinterest.com
