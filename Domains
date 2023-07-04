@@ -1,5 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
-! Version: 30.6.2023
+! Version: 4.7.2023
 ! Expires: 5 days
 
 
@@ -121,6 +121,7 @@
 ! Unreleated Addons
 ||tabby-cat.myshopify.com
 ||tabbycats.club
+||analytics.languagetoolplus.com^$important
 
 ! ========ADVANCED RULES========
 ||cnn.com^$important,subdocument,script
