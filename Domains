@@ -133,3 +133,14 @@
 ! ==========⚠️NSFW Websites (Contains Death, Blocked with this filter for a reason)⚠️==========
 ||videos.watchpeopledie.tv^$important
 ||watchpeopledie.tv^$important
+
+
+! ZLibrary scam sites
+
+||zlib.is^$important
+||zlib.to^$important
+||zlibrary.to^$important
+||zlibrary.is^$important
+||z-lib.is^$important
+||z-lib.to^$important
+||z-lib.io^$important
