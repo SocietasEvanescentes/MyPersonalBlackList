@@ -1,4 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
+! Version 11-Oct-2023
 ! Expires: 1 day
 
 
@@ -108,7 +109,7 @@
 ||appmetrica.yandex.ru
 ||metrika.yandex.ru
 /yandex/
-/mail.ru/
+||mail.ru/
 
 ! Android OEM (Not appliable to me, but better safe than sorry)
 ||bdapi-ads.realmemobile.com
