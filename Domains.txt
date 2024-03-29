@@ -1,5 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
-! Version 11-Oct-2023
+! Version 29-Mar-2024
 ! Expires: 1 day
 
 
@@ -19,43 +19,6 @@
 ||widgets.outbrain.com^$important
 ||browser.pipe.aria.microsoft.com^$important
 ||mixer.com^$important
-
-! Microsoft Skype
-||people.skype.com^$important
-||pnv.skype.com^$important 
-||contacts.skype.com^$important 
-||api.aps.skype.com^$important 
-||wsapi.skype.com^$important 
-||options.skype.com^$important 
-||api.mcr.skype.com^$important 
-||statis-asm.secure.skypeassets.com^$important 
-||api.cc.skype.com^$important 
-||go.trouter.skype.com^$important 
-||static.asm.skype.com^$important 
-||config.edge.skype.com^$important 
-||prod.registar.skype.com^$important 
-||avatar.skype.com^$important 
-||relay.skype.com^$important 
-||broker.skype.com^$important 
-||broadcast.skype.com^$important 
-||infra.lync.com^$important 
-||pipe.skype.com^$important 
-||skypemaprdsitus.trafficmanager.net^$important 
-||sfbassets.com^$important 
-||engagementapi.skype.com^$important
-||mrrcountries.cdn.skype.com^$important
-||msgsearch.skype.com^$important
-||api.cc.skype.com^$important
-||go.trouter.skype.com^$important
-||api.mcr.skype.com^$important
-||static-asm.secure.skypeassets.com^$important
-||config.edge.skype.com^$important
-||prod.registrar.skype.com^$important
-||api.asm.skype.com^$important
-||static.asm.skype.com^$important
-||consumer.entitlement.skype.com^$important
-||edge.skype.com^$important
-||trouter-cus-b.trouter.skype.com^$important
 ||in.appcenter.ms^$important
 
 ! Pinterest
