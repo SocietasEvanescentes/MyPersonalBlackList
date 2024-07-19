@@ -1,5 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
-! Version 29-Mar-2024
+! Version 18-July-2024
 ! Expires: 1 day
 
 
@@ -41,6 +41,7 @@
 ||analyticsengine.s3.amazonaws.com
 ||analytics.s3.amazonaws.com
 ||advertising-api-eu.amazon.com
+||advice-ads.s3.amazonaws.com
 
 ! Bugsnag
 ||api.bugsnag.com
@@ -54,6 +55,14 @@
 ||udc.yahoo.com
 ||udcm.yahoo.com
 ||adtech.yahooinc.com
+||gemini.yahoo.com
+
+! X
+||ads-api.twitter.com
+
+! TikTok
+||ads-api.tiktok.com
+||ads-sg.tiktok.com
 
 ! Netflix
 ||ichnaea.netflix.com^$important
