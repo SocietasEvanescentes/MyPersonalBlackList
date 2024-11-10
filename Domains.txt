@@ -101,12 +101,6 @@
 ||businessinsider.com^$important,subdocument,script,cookie
 ||buzzfeednews.com^$important,subdocument,script,cookie
 
-
-! ==========⚠️NSFW Websites (Contains Death, Blocked with this filter for a reason)⚠️==========
-||videos.watchpeopledie.tv^$important
-||watchpeopledie.tv^$important
-
-
 ! ZLibrary scam sites
 
 ||zlib.is^$important
