@@ -95,8 +95,13 @@
 ||tabbycats.club
 ||analytics.languagetoolplus.com^$important
 ||scorecardresearch.com^$important
-
-
+||analytics.adjust.net.in^$important
+||analytics.adjust.com^$important
+||sentry.io^$important
+||app.adjust.com^$important
+||bugsnag.com^$important
+||apple-finance.query.yahoo.com^$important
+||https://app-measurement.com/sdk-exp^$important
 
 ! ZLibrary scam sites
 
