@@ -1,5 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
-! Version 18-July-2024
+! Version 11-June-2025
 ! Expires: 1 day
 
 
