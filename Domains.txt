@@ -1,5 +1,5 @@
 ! Title: ⬛ My Personal Blocklist
-! Version 11-June-2025
+! Version 06-Oct-2025
 ! Expires: 1 day
 
 
@@ -56,6 +56,7 @@
 ||udcm.yahoo.com
 ||adtech.yahooinc.com
 ||gemini.yahoo.com
+||log.fc.yahoo.com
 
 ! X
 ||ads-api.twitter.com
