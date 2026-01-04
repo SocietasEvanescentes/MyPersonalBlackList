@@ -1,115 +1,140 @@
-! Title: ⬛ My Personal Blocklist
-! Version 06-Oct-2025
+! Title: ⬛ Ad Block Toolz (Basic)
+! Version Jan-4th-2026
 ! Expires: 1 day
 
 
-
-! Edge Classic
-
-||anyclip.com^$important
-
-! Microsoft
-||watson.telemetry.microsoft.com^$important
-||arc.msn.com^$important
-||cdn.spotxcdn.com^$important
-||cdn.spotxcdn.com^$important
-||ads.api.vungle.com^$important
-||fp.msedge.net^$important
-||cdn.adnxs.com^$important
-||widgets.outbrain.com^$important
-||browser.pipe.aria.microsoft.com^$important
-||mixer.com^$important
-||in.appcenter.ms^$important
-
-! Pinterest
-||widgets.pinterest.com
-
-! TikTok
-||ads-api.tiktok.com
-||business-api.tiktok.com
-||ads-sg.tiktok.com
-
-! Microsoft on Android
-||snippetdata.api.swiftkey.com^$important
-||telemetry.api.swiftkey.com^$important
-
-! Mozilla
-||www.crash-stats.mozilla.com^$important
+! --------------------------------------------------
+! Unafliated with the AdBlock Toolz website and 
+! varients. 
+! --------------------------------------------------
 
 
-! Amazon
-||analyticsengine.s3.amazonaws.com
-||analytics.s3.amazonaws.com
-||advertising-api-eu.amazon.com
-||advice-ads.s3.amazonaws.com
+! --------------------------------------------------
+! ADS & AD NETWORKS
+! --------------------------------------------------
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||stats.g.doubleclick.net^
+||mediavisor.doubleclick.net^
+||static.media.net^
+||adservetx.media.net^
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
 
-! Bugsnag
-||api.bugsnag.com
-||app.bugsnag.com
+! --------------------------------------------------
+! ANALYTICS
+! --------------------------------------------------
+||mouseflow.com^
+||cdn.mouseflow.com^
+||o2.mouseflow.com^
+||gtm.mouseflow.com^
+||api.mouseflow.com^
+||tools.mouseflow.com^
+||cdn-test.mouseflow.com^
+||luckyorange.com^
+||api.luckyorange.com^
+||realtime.luckyorange.com^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||freshmarketer.com^
+||claritybt.freshmarketer.com^
+||fwtracks.freshmarketer.com^
 
-! Sentry
-||browser.sentry-cdn.com
-||app.getsentry.com
+! --------------------------------------------------
+! ERROR TRACKERS
+! --------------------------------------------------
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
 
-! Verizon
-||udc.yahoo.com
-||udcm.yahoo.com
-||adtech.yahooinc.com
-||gemini.yahoo.com
-||log.fc.yahoo.com
+! --------------------------------------------------
+! SOCIAL TRACKERS
+! --------------------------------------------------
+||pixel.facebook.com^
+||an.facebook.com^
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+||events.reddit.com^
+||events.redditmedia.com^
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||log.byteoversea.com^
+||static.ads-twitter.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
 
-! X
-||ads-api.twitter.com
+! --------------------------------------------------
+! YAHOO / UNITY / YANDEX
+! --------------------------------------------------
+||geo.yahoo.com^
+||udcm.yahoo.com^
+||analytics.query.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahooinc.com^
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||extmaps-api.yandex.net^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||offerwall.yandex.net^
+||adfox.yandex.ru^
 
-! TikTok
-||ads-api.tiktok.com
-||ads-sg.tiktok.com
-
-! Netflix
-||ichnaea.netflix.com^$important
-
-! Comments
-||disqus.com^$important
-||disquscdn.com^$important
-
-! Blizzard
-||telemetry-in.battle.net^$important
-
-! Apple
-||metrics.icloud.com^$important
-
-! Yandex
-||appmetrica.yandex.ru
-||metrika.yandex.ru
-/yandex/
-||mail.ru/
-
-! Android OEM (Not appliable to me, but better safe than sorry)
-||bdapi-ads.realmemobile.com
-||bdapi-in-ads.realmemobile.com
-||ck.ads.oppomobile.com
-||grs.hicloud.com
-
-
-! Unreleated Addons / Misc
-||tabby-cat.myshopify.com
-||tabbycats.club
-||analytics.languagetoolplus.com^$important
-||scorecardresearch.com^$important
-||analytics.adjust.net.in^$important
-||analytics.adjust.com^$important
-||sentry.io^$important
-||app.adjust.com^$important
-||bugsnag.com^$important
-||apple-finance.query.yahoo.com^$important
-||https://app-measurement.com/sdk-exp^$important
-
-! ZLibrary scam sites
-
-||zlib.is^$important
-||zlib.to^$important
-||zlibrary.to^$important
-||zlibrary.is^$important
-||z-lib.is^$important
-||z-lib.to^$important
-||z-lib.io^$important
+! --------------------------------------------------
+! OEM TELEMETRY (MOBILE DEVICES)
+! --------------------------------------------------
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||click.oneplus.cn^
+||open.oneplus.net^
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.rus.miui.com^
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||grs.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||analytics-api.samsunghealthcn.com^
