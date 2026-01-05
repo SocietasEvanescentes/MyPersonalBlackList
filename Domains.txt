@@ -1,5 +1,5 @@
 ! Title: ⬛ Ad Block Toolz (Basic)
-! Version Jan-4th-2026
+! Version 1.5.2026
 ! Expires: 1 day
 
 
@@ -146,4 +146,5 @@ d3ward.github.io##.textads
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+
 
