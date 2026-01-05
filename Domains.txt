@@ -10,6 +10,14 @@
 
 
 ! --------------------------------------------------
+! AdBlock Toolz website filters 
+! --------------------------------------------------
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
+
+! --------------------------------------------------
 ! ADS & AD NETWORKS
 ! --------------------------------------------------
 ||adtago.s3.amazonaws.com^
@@ -138,3 +146,4 @@
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+
