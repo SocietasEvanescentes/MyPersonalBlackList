@@ -28,6 +28,7 @@ d3ward.github.io##.textads
 ||mediavisor.doubleclick.net^
 ||static.media.net^
 ||adservetx.media.net^
+||media.net^
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
 ||events3alt.adcolony.com^
@@ -146,5 +147,6 @@ d3ward.github.io##.textads
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||analytics-api.samsunghealthcn.com^
+
 
 
